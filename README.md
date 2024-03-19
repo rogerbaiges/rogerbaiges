@@ -28,5 +28,4 @@ As a student of Artificial Intelligence at the Universitat Politècnica de Catal
 
 ## 📫 Contact
 - **Email:** [rogerbaigestrilla@gmail.com](mailto:rogerbaigestrilla@gmail.com)
-- **GitHub:** [rogerbaigestrilla](https://github.com/rogerbaiges)
 - **LinkedIn:** [Roger Baiges Trilla](www.linkedin.com/in/rogerbaigestrilla)
