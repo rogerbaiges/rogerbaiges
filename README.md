@@ -1,7 +1,7 @@
 # Roger Baiges Trilla
 
 ## 📚 About Me
-I am an ambitious Artificial Intelligence Student at Universitat Politècnica de Catalunya, BarcelonaTech, with a strong foundation in programming, machine learning, and AI algorithms. Leveraging my proficiency in Python, R, SQL, C++, and C, I strive to solve complex problems through innovative AI solutions. My academic journey is distinguished by honor distinctions in Data Analysis and AI algorithms, reflecting my dedication and passion for AI and machine learning.
+As a student of Artificial Intelligence at the Universitat Politècnica de Catalunya, I have a strong interest in applying machine learning and AI to address practical challenges. My curiosity motivates me to learn more about the field of AI, and I appreciate opportunities to test my skills in settings like hackathons. Through my studies and various projects, I have developed a solid foundation in Python, which is my strongest programming language. I also have experience with other languages such as R, SQL, C++, and C. This background supports my efforts to develop practical solutions within the realm of technology.
 
 ### 🌍 Languages
 - **Catalan:** Native
@@ -9,28 +9,27 @@ I am an ambitious Artificial Intelligence Student at Universitat Politècnica de
 - **English:** Advanced (C1 Cambridge Advanced)
 
 ### 🏆 Achievements
-- Achieved a grade of 9.33/10 in my Technological Bachelorette from IES Joan Guinjoan, with honors.
-- Awarded Governmental Distinction for High University Entry Exam Scores (+9.5/10).
-- Mentor to newcomers at Universitat Politècnica de Catalunya, guiding them through their academic and professional journey in AI.
+- **HackUPC Champion:** Led my team to victory at the HackUPC challenge, where we developed an AI-based solution to analyze transaction data, showcasing our prowess in machine learning and data analysis.
+- Recognized with a Governmental Distinction for achieving over 9.5/10 in the University Entry Exam scores.
+- Secured a grade of 9.33/10 in the Technological Bachelorette from IES Joan Guinjoan, graduating with honors.
+- Acted as a mentor for newcomers at Universitat Politècnica de Catalunya, offering guidance and support in their academic and professional pursuits in AI.
 
 ### 🛠 Skills
 - **Programming Languages:** Proficient in Python, R, SQL, C++, C, and PDDL.
-- **Machine Learning & AI:** Deep knowledge in neural networks, deep learning, AI algorithms, and natural language processing.
-- **Data Analysis & Statistics:** Advanced skills in data analysis, mathematics, statistics, and utilizing these for predictive modeling and insights.
-- **Parallelization:** Experience in optimizing algorithms for parallel execution to enhance performance.
+- **Machine Learning & AI:** Extensive knowledge in neural networks, deep learning, AI algorithms, and natural language processing.
+- **Data Analysis & Statistics:** Expertise in leveraging data analysis, mathematics, and statistics for predictive modeling and actionable insights.
+- **Parallelization:** Experienced in enhancing algorithm performance through effective parallelization techniques.
 
 ## 💻 Projects
-- **Cirrhosis Survival Prediction:** Utilized machine learning models to predict the survival rate of cirrhosis patients with impressive accuracy (F1-score > 0.8).
-- **Winner of Bunge’s Challenge at HackUPC:** Developed an AI project to interpret transactions from Bunge's dataset, winning the prestigious HackUPC challenge.
-- **Bicycle Renting Service AI Optimization (Bicing):** Implemented local search algorithms, like Simulated Annealing, to minimize financial losses in bicycle redistribution.
-- **Statistical Study of Spotify’s Top Songs:** Conducted a thorough analysis of Spotify’s top songs using machine learning and statistical techniques to identify potential improvements.
-- **Research on Automatic Systems:** Explored the use of Arduino in creating an automatic watering system, minimizing water usage through intelligent scheduling.
+- **Cirrhosis Survival Prediction:** Developed ML models to accurately predict cirrhosis patient survival rates, achieving an F1-score > 0.8.
+- **Bicycle Renting Service AI Optimization (Bicing):** Optimized bicycle redistribution logistics using local search algorithms like Simulated Annealing to reduce operational costs.
+- **Statistical Study of Spotify’s Top Songs:** Analyzed Spotify’s top tracks using ML and statistical methods to identify improvement areas for the company.
+- **Research on Automatic Systems:** Investigated the use of Arduino for creating an efficient automatic watering system, reducing water consumption through smart scheduling.
 
 ## 📫 How to Reach Me
 - **Email:** [rogerbaigestrilla@gmail.com](mailto:rogerbaigestrilla@gmail.com)
-- **GitHub:** [rogerbaiges](https://github.com/rogerbaiges)
-- **Linkedin** [rogerbaiges](www.linkedin.com/in/rogerbaigestrilla)
+- **GitHub:** [rogerbaigestrilla](https://github.com/rogerbaiges)
+- **LinkedIn:** [Roger Baiges Trilla](www.linkedin.com/in/rogerbaigestrilla)
 
 ## 📌 Note
-For more details on my projects and contributions, feel free to visit my [GitHub profile](https://github.com/rogerbaiges).
-
+Visit my [GitHub profile](https://github.com/rogerbaigestrilla) for more insights into my projects and contributions to the field of AI and machine learning.
