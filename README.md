@@ -26,7 +26,7 @@ As a student of Artificial Intelligence at the Universitat Politècnica de Catal
 - **Statistical Study of Spotify’s Top Songs:** Analyzed Spotify’s top tracks using ML and statistical methods to identify improvement areas for the company.
 - **Research on Automatic Systems:** Investigated the use of Arduino for creating an efficient automatic watering system, reducing water consumption through smart scheduling.
 
-## 📫 Contact Me
+## 📫 Contact
 - **Email:** [rogerbaigestrilla@gmail.com](mailto:rogerbaigestrilla@gmail.com)
 - **GitHub:** [rogerbaigestrilla](https://github.com/rogerbaiges)
 - **LinkedIn:** [Roger Baiges Trilla](www.linkedin.com/in/rogerbaigestrilla)
