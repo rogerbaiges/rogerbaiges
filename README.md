@@ -21,6 +21,7 @@ As a student of Artificial Intelligence at the Universitat Politècnica de Catal
 - **Parallelization:** Experienced in enhancing algorithm performance through effective parallelization techniques.
 
 ## 💻 Projects
+- **HackUPC Champion & Challenge Auditoria Winner**
 - **Cirrhosis Survival Prediction:** Developed ML models to accurately predict cirrhosis patient survival rates, achieving an F1-score > 0.8.
 - **Bicycle Renting Service AI Optimization (Bicing):** Optimized bicycle redistribution logistics using local search algorithms like Simulated Annealing to reduce operational costs.
 - **Statistical Study of Spotify’s Top Songs:** Analyzed Spotify’s top tracks using ML and statistical methods to identify improvement areas for the company.
