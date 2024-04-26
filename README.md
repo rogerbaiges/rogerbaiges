@@ -10,7 +10,7 @@ As a student of Artificial Intelligence at the Universitat Politècnica de Catal
 
 ### 🏆 Achievements
 - **HackUPC Champion:** Led my team to victory at the HackUPC challenge, where we developed an AI-based solution to analyze transaction data, showcasing our prowess in machine learning and data analysis.
-- **Challenge Auditoria Winner:** With other two colleagues we created a project capable of predicting the inventory impairment using advanced AI models such as autoencoders (NN), advanced time series algorithms, EBM for explaining the results, word embeddings and even clustering we emerged to create a model user friendly in order to solve this real problem for auditors.
+- **Challenge Auditoria Winner:** With other two colleagues we created a project capable of predicting the inventory impairment using advanced AI models such as autoencoders (NN), advanced time series algorithms, EBM for explaining the results, word embeddings and even clustering where we emerged to create a model user friendly in order to solve this real problem for auditors.
 - Recognized with a Governmental Distinction for achieving over 9.5/10 in the University Entry Exam scores.
 - Acted as a mentor for newcomers at Universitat Politècnica de Catalunya, offering guidance and support in their academic and professional pursuits in AI.
 
