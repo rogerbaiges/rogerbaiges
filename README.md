@@ -1,7 +1,7 @@
 # Roger Baiges Trilla
 
 ## 📚 About Me
-As a student of Artificial Intelligence at the Universitat Politècnica de Catalunya, I have a strong interest in applying machine learning and AI to address practical challenges. My curiosity motivates me to learn more about the field of AI, and I appreciate opportunities to test my skills in settings like hackathons. Through my studies and various projects, I have developed a solid foundation in Python, which is my strongest programming language. I also have experience with other languages such as R, SQL, C++, and C. This background supports my efforts to develop practical solutions within the realm of technology.
+I am an Artificial Intelligence student at the Universitat Politècnica de Catalunya with a passion for applying AI and machine learning to solve real-world challenges. My journey has been marked by academic excellence, hackathon wins, and hands-on experience with cutting-edge projects. I thrive in collaborative environments and enjoy mentoring others while exploring the frontiers of AI.
 
 ### 🌍 Languages
 - **Catalan:** Native
@@ -9,24 +9,56 @@ As a student of Artificial Intelligence at the Universitat Politècnica de Catal
 - **English:** Advanced (C1 Cambridge Advanced)
 
 ### 🏆 Achievements
-- **HackUPC Champion:** Led my team to victory at the HackUPC challenge, where we developed an AI-based solution to analyze transaction data, showcasing our prowess in machine learning and data analysis.
-- **Challenge Auditoria Winner:** With other two colleagues we created a project capable of predicting the inventory impairment using advanced AI models such as autoencoders (NN), advanced time series algorithms, EBM for explaining the results, word embeddings and even clustering where we emerged to create a model user friendly in order to solve this real problem for auditors.
-- Recognized with a Governmental Distinction for achieving over 9.5/10 in the University Entry Exam scores.
-- Acted as a mentor for newcomers at Universitat Politècnica de Catalunya, offering guidance and support in their academic and professional pursuits in AI.
+- **Hackathon Wins:**
+  - **AINA Hack 2024 (1st Place):** Developed LaIA, a multimodal AI assistant for simplifying administrative processes in Catalan.
+  - **HackUPC 2023 (1st Place):** Built an AI-based transaction analysis solution for Bunge.
+  - **Challenge Auditoria Winner (2024):** Created an AI model to predict inventory impairments using advanced ML techniques.
+- **Governmental Distinction Award (2022):** Achieved a score of over 9.5/10 in University Entry Exams.
+- **Mentorship:** Guided newcomers at Universitat Politècnica de Catalunya in their academic and professional journeys.
 
-### 🛠 Skills
-- **Programming Languages:** Proficient in Python, R, SQL, C++, C, and PDDL.
-- **Machine Learning & AI:** Extensive knowledge in neural networks, deep learning, AI algorithms, and natural language processing.
-- **Data Analysis & Statistics:** Expertise in leveraging data analysis, mathematics, and statistics for predictive modeling and actionable insights.
-- **Parallelization:** Experienced in enhancing algorithm performance through effective parallelization techniques.
+## 🛠 Technical Skills
+- **Programming Languages:** Python, R, MATLAB, SQL, C, C++, PDDL
+- **Core Expertise:**
+  - Machine and Deep Learning
+  - Reinforcement Learning
+  - Natural Language Processing
+  - Computer Vision
+  - AI Agents and Parallelization
+- **Frameworks and Tools:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib
+- **Other Skills:** Cloud Computing, Generative AI, CUDA
+- **Certifications:** Generative AI with Large Language Models (DeepLearning.AI and AWS, Coursera)
 
 ## 💻 Projects
-- **HackUPC Champion & Challenge Auditoria Winner**
-- **Cirrhosis Survival Prediction:** Developed ML models to accurately predict cirrhosis patient survival rates, achieving an F1-score > 0.8.
-- **Bicycle Renting Service AI Optimization (Bicing):** Optimized bicycle redistribution logistics using local search algorithms like Simulated Annealing to reduce operational costs.
-- **Statistical Study of Spotify’s Top Songs:** Analyzed Spotify’s top tracks using ML and statistical methods to identify improvement areas for the company.
-- **Research on Automatic Systems:** Investigated the use of Arduino for creating an efficient automatic watering system, reducing water consumption through smart scheduling.
+### **CatGPT - Catalan LLM (2024)**
+- Developed a 111M-parameter Catalan language model excelling in NLP tasks like poetry generation and text continuation.
+- Addressed data scarcity through synthetic token creation.
+
+### **LaIA - Multimodal Agent (AINA Hack 2024 Winner Project)**
+- Built an AI assistant combining NLP, text-to-speech, and retrieval architectures for simplifying administrative processes in Catalan.
+
+### **Patufet - Synthetic Text Generator (2024)**
+- Designed a pipeline for generating synthetic data to improve Catalan language model performance.
+
+### **Challenge Auditoria (2024 Winner Project)**
+- Predicted inventory impairments using deep learning, time-series analysis, and innovative ML techniques.
+
+### **Bicycle Renting Service AI Optimization (Bicing)**
+- Reduced operational costs for bike redistribution using Simulated Annealing.
+
+### **Spotify Top Songs Statistical Analysis**
+- Analyzed, during 1 year, Spotify’s top tracks using ML and statistical methods for actionable insights.
+
+## 🎓 Education
+### **Universitat Politècnica de Catalunya - BarcelonaTech**
+- **Degree:** Bachelor’s in Artificial Intelligence (2022 – Present)
+- **Grade:** 8.94/10 with 7 honor distinctions in NLP, Computer Vision, Reinforcement Learning, and Data Analysis.
+
+### **IES Joan Guinjoan**
+- **Degree:** Technological Baccalaureate (2020 – 2022)
+- **Grade:** 9.33/10 (with honors)
 
 ## 📫 Contact
 - **Email:** [rogerbaigestrilla@gmail.com](mailto:rogerbaigestrilla@gmail.com)
-- **LinkedIN:** [Roger Baiges Trilla](https://www.linkedin.com/in/rogerbaigestrilla)
+- **LinkedIn:** [Roger Baiges Trilla](https://www.linkedin.com/in/rogerbaigestrilla/)
+- **GitHub:** [rogerbaiges](https://github.com/rogerbaiges)
+- **Hugging Face:** [Roger Baiges](https://huggingface.co/baiges)
